@@ -3,7 +3,7 @@ import { Todo } from '../MyComponents/Todo'
 
 export const Todos = (props) => {
   let containerStyling={
-    minHeigh:"70vh ",
+    minHeigh:"100vh ",
     margin:"50px auto"
   }
   return (
